@@ -1,0 +1,78 @@
+html,
+.prs
+img{
+    position: inherit;
+}
+h2{
+    color:red;
+    padding: 10px;
+    top: 100px;
+    left: 100px;
+}
+.nk
+h3{
+    position: absolute;
+    color: brown;
+    top: 355px;
+    left: 285px;
+}
+.pr3
+h3{
+    position: absolute;
+    color: brown;
+    top: 355px;
+    left: 550px;
+}
+.pr4
+h3{
+    position: absolute;
+    color: brown;
+    top: 355px;
+    left: 815px;
+}
+.pr5
+h3{
+    position: absolute;
+    color: brown;
+    top: 355px;
+    left: 1070px;
+}
+.r2
+img{
+    position: inherit;
+}
+.pr7
+h3{
+    position: absolute;
+    color: brown;
+    top: 700px;
+    left: 10px;
+}
+.pr8
+h3{
+    color: brown;
+    position: absolute;
+    top: 700px;
+    left: 285px;
+}
+.pr9
+h3{
+    color: brown;
+    position: absolute;
+    top: 700px;
+    left: 545px;
+}
+.pr10
+h3{
+    color: brown;
+    position: absolute;
+    top: 700px;
+    left: 815px;
+}
+.pr11
+h3{
+    color: brown;
+    position: absolute;
+    top: 700px;
+    left: 1085px;
+}

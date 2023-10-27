@@ -1,0 +1,24 @@
+html,
+.con
+h1{
+    color: rgb(0, 0, 0);
+}
+address
+{
+
+    font-size: xxx-large;
+    color: rgb(117, 0, 0);
+}
+.her
+img{
+    padding: 5px;
+    border: 10px ridge rgb(56, 14, 14);
+    height: 100%;
+    width: 100%;
+}
+.left
+{
+    position: absolute;
+    top: 160px;
+    left: 220px;
+}

@@ -1,0 +1,117 @@
+html,
+.body
+{
+    background: rgb(133, 228, 157);
+}
+.sk
+h1{
+    background: rgb(6, 10, 255);
+    color: rgb(0, 0, 0);
+}
+a{
+    color: rgb(5, 5, 5);
+}
+.bd
+img
+{
+    height: 100%;
+    width: 99%;
+    border: 10px ridge rgb(56, 14, 14);
+}
+.left
+{
+    position: absolute;
+    top: 160px;
+    left: 220px;
+}
+.left
+h2{
+    color: brown;
+    font-size: 200%;
+}
+.left
+h1{
+    
+    font-size: 300%;
+}
+.left
+a{
+    color: whitesmoke;
+    background: rgb(255, 255, 255);
+    font-size: xxx-large;
+    
+}
+a:hover{
+    text-decoration: none;
+	outline: none;
+	color: #fd0ad5;
+}
+
+.text
+p{
+    color: aqua;
+    background: rgb(0, 0, 0);;
+}
+
+.pt
+img{
+    
+    position: absolute;
+
+}
+.r
+a{
+    padding: 5px;
+    font-size: xx-large;
+    position: absolute;
+    top: 1060px;
+    left: 150px;
+}
+
+.shoe
+a{
+    padding: 5px;
+    font-size: xx-large;
+    position: absolute;
+    top: 1050px;
+    left: 1020px;
+}
+.shp
+a{
+    font-size: xx-large;
+    position: absolute;
+    top: 1600px;
+    left: 520px;
+}
+.dropdown{
+    position: relative;
+    display: block;
+}
+.dropdown-content{
+    display: none;
+    position: absolute;
+    background-color: #d4afaf;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0, 2);
+    z-index: 1;
+}
+.dropdown:hover .dropdown-content{
+    display: block;
+}
+.desc{
+    padding: 15px;
+    text-align: center;
+}
+
+.ct{
+    display: block;
+
+}
+.ct:hover
+p{
+    display: block;
+} .ctc
+p
+{
+    display: none;
+}
